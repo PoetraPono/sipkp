@@ -1,0 +1,71 @@
+#bot{
+  margin-bottom: 10px;
+}
+#navbarcolor {
+              background: #3498db;
+
+}
+.char-color {
+            color: white;
+}
+.navbar-brand{font-weight:500;
+            color:white;}
+body {
+  
+  color: #5a5a5a;
+}
+#bg-color {
+            background: #333;
+}
+#konten {
+          background: #fff;
+          padding-bottom: 30px;
+}
+.border {
+        border: 1px solid red;
+}
+.border-w{
+          border:1px solid blue;
+}
+
+
+/* home artikel */
+#nyala a:hover {
+        background:#428bca; 
+
+} 
+#slide{
+     background: #777;
+}
+#img-konten {
+        padding-left: 10px;
+}
+h2{
+  color:#333;
+    text-shadow:1px 1px 1px #000000;
+}
+.media-body h3 {
+    color:#333;
+    text-shadow:1px 1px 1px #000000;
+}
+#box {
+  -webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.3);
+  box-shadow:         1px 1px 5px 1px rgba(0,0,0,0.3);
+  min-width: 500px;
+  margin-top: 4em;
+  padding-top: 2em;
+  min-height: 200px;
+
+  
+}
+
+
+.panel-footer{
+
+      padding-bottom: 30px;
+      margin-bottom: 10px;
+
+
+}
+
+

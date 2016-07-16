@@ -1,0 +1,31 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+#border {
+			border:1px solid red;
+}
+
+#page-wrap { width: 960px; margin: 60px auto; }
+#map_canvas { width: 100%; height: 400px; width: 550px; text-align: center; position: relative; z-index: 30 !important; }
+
+h1 { margin: 0 0 15px 0; font: bold 48px Helvetica, Arial, Sans-Serif; letter-spacing: -2px; }
+h2 { margin: 0 0 15px 0; font: bold 32px Helvetica, Arial, Sans-Serif; letter-spacing: -1px; text-shadow: 0 1px 0px rgba(255,255,255,0.3); }
+h3 { margin: 0 0  1px 0; font: bold 18px Helvetica, Arial, Sans-Serif; letter-spacing: -1px; }
+
+
+#locations { list-style: none;   }
+#locations li { padding: 5px; width: 500px;  }
+.bs-example {
+			max-width: 480px;
+			
+}
+
+
+#content { width: 300px; }
+
+#more-info { width: 340px; float: right; background: #ffe8b2; padding: 20px; height: 360px; }
+#more-info * { position: relative; z-index: 40; }
+#more-info > div { background: #e9e2bf; -moz-box-shadow: 0 0 14px rgba(70,49,1,0.5); -webkit-box-shadow: 0 0 14px rgba(70,49,1,0.5); padding: 20px; height: 320px; }
+.longdesc { display: none; }
