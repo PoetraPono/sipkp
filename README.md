@@ -1,2 +1,2 @@
 # sipkp
-Sistem Informasi Pengenalan Kota Palembang
+Sistem Informasi Pengenalan Wisata Kota Palembang
